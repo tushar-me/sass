@@ -1,0 +1,24 @@
+/*-------------------------------------------------------
+Responsive Media Query Variables
+---------------------------------------------------------*/
+$sm_device: '(max-width: 767px)';
+$lm_device: 'only screen and (min-width: 480px) and (max-width: 767px)';
+$md_device: 'only screen and (min-width: 768px) and (max-width: 991px)';
+$lg_device: 'only screen and (min-width: 992px) and (max-width: 1280px)';
+$xl_device: 'only screen and (min-width: 1281px) and (max-width: 1450px)';
+$xxl_device: '(min-width: 1600px)';
+$xxxl_device: '(min-width: 1900px)';
+
+
+
+/*
+!Responsive Media Query Variables Uses
+
+div {
+    width: 50%; //desctop view
+    @media #{$sm_device} {
+        width: 100%; // mobile view
+    }
+}
+
+*/
