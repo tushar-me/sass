@@ -1,4 +1,4 @@
-# Sass Architecture Structure
+# Sass Structure
 
 ```
 sass/
