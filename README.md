@@ -26,7 +26,6 @@ sass/
 |   |– _header.scss      # Header
 |   |– _footer.scss      # Footer
 |   |– _sidebar.scss     # Sidebar
-|   |– _sidebar.scss     # Sidebar
 |   |– _forms.scss       # Forms
 |   ...                  
 |   |- _index.scss
