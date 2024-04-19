@@ -6,18 +6,21 @@ sass/
 |- abstracts/
 |   |- _colors.scss      # Color Variables
 |   |- _media-query.scss  # Media Query Variables
-|   ...                  # Etc
+|   ...
+|   |- _index.scss
 |
 |– base/
 |   |– _reset.scss       # Reset/normalize
 |   |– _typography.scss  # Typography rules
-|   ...                  # Etc…
+|   ...                  
+|   |- _index.scss
 |
 |– components/
 |   |– _buttons.scss     # Buttons
 |   |– _carda.scss       # Cover
 |   |– _titles.scss      # Titles
-|   ...                  # Etc…
+|   ...                  
+|   |- _index.scss
 |
 |– layout/
 |   |– _header.scss      # Header
@@ -25,12 +28,14 @@ sass/
 |   |– _sidebar.scss     # Sidebar
 |   |– _sidebar.scss     # Sidebar
 |   |– _forms.scss       # Forms
-|   ...                  # Etc…
+|   ...                  
+|   |- _index.scss
 |
 |– pages/
 |   |– _home.scss        # Home specific styles
 |   |– _contact.scss     # Contact specific styles
-|   ...                  # Etc…
+|   ...                  
+|   |- _index.scss
 |
 |
 `– app.scss            # Primary Sass file
