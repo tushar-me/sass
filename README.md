@@ -5,7 +5,7 @@ sass/
 |
 |- abstracts/
 |   |- _colors.scss      # Color Variables
-|   |-_media-query.scss  # Media Query Variables
+|   |- _media-query.scss  # Media Query Variables
 |   ...                  # Etc
 |
 |– base/
